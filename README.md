@@ -1,4 +1,4 @@
-Note:This is the PowerBI end to end project.
+Note:This is the PowerBI end-to-end project.
 
 
 
